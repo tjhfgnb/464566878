@@ -43,12 +43,12 @@ const dailySets = [
   },
   {
     time: "07:45",
-    focus: "更新測試成功：Cloudflare Pages 已讀到新版內容",
+    focus: "讓早晨先有一段自己的聲音",
     brief: [
       {
         tag: "MIND",
-        title: "今天的內容已經換新",
-        text: "如果你在線上網站看到這句話，就代表 GitHub 到 Cloudflare Pages 的更新流程正常。",
+        title: "用三行字清空腦內分頁",
+        text: "寫下正在想、正在拖、正在等的事，焦慮會比較有邊界。",
       },
       {
         tag: "WORK",
