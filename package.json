@@ -1,0 +1,13 @@
+{
+  "name": "nova-daily",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler pages deploy . --project-name nova-daily",
+    "check": "node --check script.js && node --check functions/api/daily.js"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
